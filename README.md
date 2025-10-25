@@ -1,12 +1,34 @@
-# React + Vite
+## 📖 Project Description
+*Minigram* is a modern *Single Page Application (SPA)* built using *React.js* and *Node.js*.  
+It allows users to create posts, like, comment, and interact in a seamless, responsive interface without page reloads.  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project demonstrates *state management, **API integration, and **dynamic front-end routing* while maintaining an intuitive UI/UX.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔑 Key Features
+- 📝 Create, edit, and delete posts  
+- ❤️ Like and comment on posts  
+- 👤 User profile management  
+- 🔒 Secure authentication (JWT / Firebase Auth)  
+- 🌗 Dark/Light theme toggle  
+- 📱 Fully responsive design for mobile and desktop  
+- ⚡ Real-time updates and smooth navigation  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🧰 Tech Stack
+| Layer | Technology |
+|-------|------------|
+| Front-end | React.js, HTML5, CSS3, JavaScript (ES6+), Tailwind CSS |
+| Back-end | Node.js, Express.js |
+| Database | MongoDB / Firebase |
+| Deployment | Netlify / Vercel |
+| Version Control | Git & GitHub |
+
+---
+
+## 🚀 Live Demo
+🔗 [https://single-pageapplication.netlify.app/]
+
+---
